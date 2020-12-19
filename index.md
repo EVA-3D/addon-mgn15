@@ -31,3 +31,11 @@ While EVA 2 will focus on MGN12 rails (since those are supposed to be ~50% light
 === "BMG"
 
 {{ bom("addons/mgn15/bom/bmg.csv", 4) }}
+
+=== "Aero"
+
+{{ bom("addons/mgn15/bom/aero.csv", 4) }}
+
+=== "Hemera"
+
+{{ bom("addons/mgn15/bom/hemera.csv", 4) }}
