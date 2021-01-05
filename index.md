@@ -6,7 +6,7 @@ badges:
 
 In short, **yes**. One can use EVA 2 on a MGN15C carriage.
 
-While EVA 2 will focus on MGN12 rails (since those are supposed to be ~50% lighter) there still is a posibility to use an EVA 2, with the help of the **top** and **bottom** parts you can find in this addon.
+While EVA 2 will focus on MGN12 rails (since those are supposed to be ~50% lighter) there still is a possibility to use an EVA 2, with the help of the **top** and **bottom** parts you can find in this addon.
 
 ![preview](assets/__ALL__.png)
 
