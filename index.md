@@ -1,41 +1,9 @@
 ---
 title: MGN15C
-badges:
-    - Official
 ---
 
-In short, **yes**. One can use EVA 2 on a MGN15C carriage.
+This addon was destroyed in EVA 2.2.0 :)
 
-While EVA 2 will focus on MGN12 rails (since those are supposed to be ~50% lighter) there still is a possibility to use an EVA 2, with the help of the **top** and **bottom** parts you can find in this addon.
+But fear not EVA still supports MGN15C, you'll find the files under the drive pages (it was easier to manage this way).
 
-![preview](assets/__ALL__.png)
-
-### Links
-
-{{ eva_download_button("mgn15") }}
-
-{{ eva_link("mgn15") }}
-
-{{ onshape_link("mgn15") }}
-
-### BOM
-
-=== "Titan"
-
-{{ bom("addons/mgn15/bom/titan.csv", 4) }}
-
-=== "Generic"
-
-{{ bom("addons/mgn15/bom/generic.csv", 4) }}
-
-=== "BMG"
-
-{{ bom("addons/mgn15/bom/bmg.csv", 4) }}
-
-=== "Aero"
-
-{{ bom("addons/mgn15/bom/aero.csv", 4) }}
-
-=== "Hemera"
-
-{{ bom("addons/mgn15/bom/hemera.csv", 4) }}
+Thanks!
